@@ -7,7 +7,9 @@
     tools:context="com.boss.duc.myapplication.Branch3Activity">
     <TextView
         android:id="@+id/txt123"
-        android:text="asdfasdfdasfsadfasdfsdf"
+        android:text="asdfasdfdasfsadfasdfsdf123"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+
+        />
 </LinearLayout>
